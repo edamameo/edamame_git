@@ -1,2 +1,0 @@
-# edamame_git
-えだまめおのGit
