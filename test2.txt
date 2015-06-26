@@ -1,5 +1,4 @@
-test2da
-aaa
-dd
+def
+	nml=gets
 
-fff
+end
