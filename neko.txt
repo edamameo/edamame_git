@@ -3,3 +3,4 @@ kirin
 かば
 wani
 saru
+kiji
