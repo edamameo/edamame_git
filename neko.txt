@@ -1,1 +1,5 @@
 nekoneko
+<<<<<<< HEAD
+kirin
+=======
+>>>>>>> parent of 29e339a... Update neko.txt
