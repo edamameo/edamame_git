@@ -1,4 +1,7 @@
-def
-	nml=gets
+f1作成
 
-end
+
+・間違えてpushした
+revertして強制プッシュする
+
+
