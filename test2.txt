@@ -1,2 +1,4 @@
-f1作成
+def
+	nml=gets
 
+end
